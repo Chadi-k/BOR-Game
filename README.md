@@ -1,2 +1,2 @@
 # BOR-Game
-"Battle of Races" offers a student-crafted RTS adventure where strategic choices determine your empire's fate in a world of unique races and vibrant 2D battles.
+Dive into "Battle of Races," an immersive RTS game designed by a talented student. Command unique races, manage resources, and conquer your enemies. With strategic gameplay and captivating 2D graphics, every decision shapes your empire's destiny. Perfect for strategy enthusiasts seeking a challenging yet accessible experience.
